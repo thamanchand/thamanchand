@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  <a href="https://github.com/joyshaheb">
-    <img src="https://img.shields.io/badge/GitHub-@joyshaheb-blue?style=flat-square&logo=github">
+  <a href="https://github.com/thamanchand">
+    <img src="https://img.shields.io/badge/GitHub-@thamanchand-blue?style=flat-square&logo=github">
   </a>
   <a href="mailto:thaman.me@gmail.com">
     <img src="https://img.shields.io/badge/Email-thaman.me%40gmail.com-%23C25D7F?style=flat-square&logo=gmail">
