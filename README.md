@@ -21,14 +21,14 @@
 ```javascript
 const thamanchand = {
     code: ["React", TypeScript", "Javascript", "Python", "Node.js"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    askMeAbout: ["web dev", "app dev", "UI/UX"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React.js", "Next.js", "Typescript"],
             css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+            uiLibraries: ["Material UI", "Ant Design", "Grommet"],
         },
-        UI/UX: ["Wireframe prototyping", "customer journey", "Figma", "Sketch", "Adobe"],
+        UI/UX: ["Wireframe prototyping", "Customer journey", "Figma", "Sketch", "Adobe"],
         backEnd: {
             js: ["Node", "Express", "NestJS"],
             python: ["Flask", "Django"],
