@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center">Welcome to my GitHub profile! I'm Thaman Chand, a Senior Frontend Developer passionate about React, Typescript, and JavaScript.</p>
+<p align="center">Results-driven Frontend Team Lead and UI/UX Designer with 12+ years of software development experience, including 8+ years specializing in frontend development. Proven expertise in React.js, TypeScript, and Node.js, building scalable web and mobile applications. Adept at design systems, performance optimization, and state management, ensuring seamless user experiences. Strong leader with experience mentoring teams, driving agile development, and collaborating cross-functionally to deliver high-impact, user-centric solutions aligned with business goals.</p>
 
 ## 🚀 Skills
 
@@ -18,20 +18,40 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript">
 </p>
 
-## 🔧 Tools & Technologies
+```javascript
+const thamanchand = {
+    code: ["React", TypeScript", "Javascript", "Python", "Node.js"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        UI/UX: ["Wireframe prototyping", "customer journey", "Figma", "Sketch", "Adobe"],
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask", "Django"],
+        },
+        mobileApp: {
+            crossPlatform: ["React-Native"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: [ "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Supabase"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets"],
+        generativeAI: ["GPT"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        databases: ["Relational", "NoSQL"],
+    },
+};
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat-square&logo=html5">
-  <img src="https://img.shields.io/badge/Code-CSS3-%231572B6?style=flat-square&logo=css3">
-  <img src="https://img.shields.io/badge/Tools-Git-%23F05032?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/Tools-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code">
-</p>
-
-## 📚 Featured Projects
-
-<!-- - [SAAS Diet App](https://saas-diet.vercel.app/Compare): SAAS Diet is a powerful app that tracks cloud storage spendings and suggests cost-effective alternatives, empowering users to save money and optimize resource allocation.
-- [Shopping Cart Project](https://shopping-cart-js-project.vercel.app/): A Vanilla Javascript Shopping Cart Project where users can view products, add them to cart, and checkout. The main priority of the project was data structure and DOM manipulation.
-- [Shopping Cart Project](https://rick-morty-wiki-project.vercel.app): A Vanilla Javascript Shopping Cart Project where users can view products, add them to cart, and checkout. The main priority of the project was data structure and DOM manipulation. -->
 
 ## 📫 Get in Touch
 
