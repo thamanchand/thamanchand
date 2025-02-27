@@ -20,35 +20,36 @@
 
 ```javascript
 const thamanchand = {
-    code: ["React", TypeScript", "Javascript", "Python", "Node.js"],
-    askMeAbout: ["web dev", "app dev", "UI/UX"],
+    code: ["React", "TypeScript", "JavaScript", "Python", "Node.js"],
+    askMeAbout: ["Web and Mobile app development", "Product design", "Tech consulting - GenAI"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "Next.js", "Typescript"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
+            js: ["React.js", "Next.js", "TypeScript"],
+            css: ["Sass", "Tailwind CSS", "Bootstrap"],
             uiLibraries: ["Material UI", "Ant Design", "Grommet"],
         },
-        UI/UX: ["Wireframe prototyping", "Customer journey", "Figma", "Sketch", "Adobe"],
+        UI_UX: ["Wireframe prototyping", "Customer journey mapping", "Figma", "Sketch", "Adobe XD"],
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node.js", "Express", "NestJS"],
             python: ["Flask", "Django"],
         },
         mobileApp: {
-            crossPlatform: ["React-Native"],
+            crossPlatform: ["React Native"],
         },
         devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         cloudServices: {
-            aws: [ "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+            platforms: ["Heroku", "DigitalOcean", "Firebase", "Vercel", "Netlify"],
         },
         databases: ["PostgreSQL", "MongoDB", "SQLite", "Supabase"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets"],
-        generativeAI: ["GPT"],
+        misc: ["Socket.IO", "REST APIs", "GraphQL", "WebSockets"],
+        generativeAI: ["GPT", "OpenAI API", "Prompt Engineering", "Agentic AI"],
     },
     architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        databases: ["Relational", "NoSQL"],
+        frontEnd: ["SPA (Single Page Applications)", "SSR (Server-Side Rendering)", "Static Site Generation"],
+        backEnd: ["Microservices", "Monolithic", "Serverless"],
+        databases: ["Relational"], 
     },
+    interests: ["GenAI integration", "Business development", "Scalable systems", "Open-source contributions"],
 };
 ```
 
