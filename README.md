@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center">Results-driven Frontend Team Lead and UI/UX Designer with 12+ years of software development experience, including 8+ years specializing in frontend development. Proven expertise in React.js, TypeScript, and Node.js, building scalable web and mobile applications. Adept at design systems, performance optimization, and state management, ensuring seamless user experiences. Strong leader with experience mentoring teams, driving agile development, and collaborating cross-functionally to deliver high-impact, user-centric solutions aligned with business goals.</p>
+<p align="center">Results-driven FullStack Devloper and Product Designer with 12+ years of software development experience, including 8+ years specializing in frontend development. Proven expertise in React.js, TypeScript, and Node.js, building scalable web and mobile applications. Adept at design systems, performance optimization, and state management, ensuring seamless user experiences. Strong leader with experience mentoring teams, driving agile development, and collaborating cross-functionally to deliver high-impact, user-centric solutions aligned with business goals.Interested in GenAI, Agentic AI, scalable business solution</p>
 
 ## 🚀 Skills
 
